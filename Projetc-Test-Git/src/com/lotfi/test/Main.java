@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("====================>55");
 		System.out.println("====================>55");
-		System.out.println("====================>42");
-		System.out.println("====================>43");
+		System.out.println("====================>44");
+		System.out.println("====================>44");
 	}
 }
