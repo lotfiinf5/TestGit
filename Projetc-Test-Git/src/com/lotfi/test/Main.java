@@ -12,5 +12,6 @@ public class Main {
 		System.out.println("====================>99999955555");
 		System.out.println("====================>444444444444444444");
 		System.out.println("====================>yyyyyyyyyyyyyyyy");
+		System.out.println("====================>oooooooooooooooooooooo");
 	}
 }
