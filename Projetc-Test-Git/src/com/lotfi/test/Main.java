@@ -20,12 +20,21 @@ public class Main {
 		lol = lol + 20;
 	}
 
-
+	public void kkkkkkkk(int lol) {
+		System.out.println("====================>44");
+		lol = lol + 20;
+	}
+	
 	public String getAll(String lol) {
 		return lol;
 	}
 	
 	public String ooooooooooo(String lol) {
 		return lol;
+	}
+	
+	public void fffffff(int lol) {
+		System.out.println("====================>44");
+		lol = lol + 20;
 	}
 }
