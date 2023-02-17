@@ -24,4 +24,8 @@ public class Main {
 	public String getAll(String lol) {
 		return lol;
 	}
+	
+	public String ooooooooooo(String lol) {
+		return lol;
+	}
 }
