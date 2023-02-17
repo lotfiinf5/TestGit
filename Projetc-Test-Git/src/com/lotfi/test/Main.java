@@ -16,6 +16,6 @@ public class Main {
 	}
 	
 	public void getAll(int lol) {
-		lol = lol + 2;
+		lol = lol + 20;
 	}
 }
