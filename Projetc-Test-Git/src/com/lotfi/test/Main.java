@@ -14,4 +14,9 @@ public class Main {
 		System.out.println("====================>6666688888866666");
 		System.out.println("====================>888888888888888855888888888888888");
 	}
+
+
+	public String getAll(String lol) {
+		return lol;
+	}
 }
