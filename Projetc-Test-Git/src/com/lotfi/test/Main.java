@@ -16,6 +16,7 @@ public class Main {
 	}
 	
 	public void getAll(int lol) {
+		System.out.println("====================>44");
 		lol = lol + 20;
 	}
 
